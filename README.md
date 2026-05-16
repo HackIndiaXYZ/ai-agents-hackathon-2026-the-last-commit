@@ -23,7 +23,7 @@ Our mission is to combine modern AI technologies with scalable software engineer
 
 # Team Members
 
-## 👨‍💻 Mayank Prashar
+## 🎖️ Mayank Prashar
 - Frontend Developer
 - Java & Spring Boot Developer
 - AI Integration Enthusiast
@@ -33,13 +33,17 @@ https://hackindia.org/profile/mayank_prashar
 
 ---
 
-## 👨‍💻 Akshay Prashar
+## 🎖️ Akshay Prashar
 - Development & Collaboration
 - Research & Testing
+  
+🔗 HackIndia Profile: 
+https://hackindia.org/2026/ai-agents-hackathon-2026
+
 
 ---
 
-## 👨‍💻 Prakash Kumar
+## 🎖️ Prakash Kumar
 - AI & Technical Support
 - Documentation & System Planning
 
