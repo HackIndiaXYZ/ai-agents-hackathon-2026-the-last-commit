@@ -87,15 +87,6 @@ Python, FastAPI, NLP, OpenCV, WebRTC, AI APIs, Machine Learning, GitHub
 
 ---
 
-## 🎖️ Dhruv Tripathi
-### Cybersecurity & AI Specialist
-
-- Cybersecurity & Threat Analysis
-- Cloud Security
-- AI-Based Fraud Detection
-- Digital Forensics
-- Vulnerability Assessment
-
 ### Skills
 Python, Cybersecurity Tools, Kali Linux, Wireshark, Burp Suite, Google Cloud, Threat Analysis
 
