@@ -86,23 +86,6 @@ Python, FastAPI, NLP, OpenCV, WebRTC, AI APIs, Machine Learning, GitHub
 [Prakash Kumar Profile](https://hackindia.org/profile/prakash_kumar2)
 
 ---
-
-## 🎖️ Dhruv Tripathi
-### Cybersecurity & AI Specialist
-
-- Cybersecurity & Threat Analysis
-- Cloud Security
-- AI-Based Fraud Detection
-- Digital Forensics
-- Vulnerability Assessment
-
-### Skills
-Python, Cybersecurity Tools, Kali Linux, Wireshark, Burp Suite, Google Cloud, Threat Analysis
-
-🔗 HackIndia Profile:  
-[Dhruv Tripathi Profile](https://hackindia.org/2026/ai-agents-hackathon-2026/teams/the-last-commit)
-
----
 # Focus Areas
 
 - AI Agents
