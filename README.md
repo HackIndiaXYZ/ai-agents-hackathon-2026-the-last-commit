@@ -87,13 +87,6 @@ Python, FastAPI, NLP, OpenCV, WebRTC, AI APIs, Machine Learning, GitHub
 
 ---
 
-### Skills
-Python, Cybersecurity Tools, Kali Linux, Wireshark, Burp Suite, Google Cloud, Threat Analysis
-
-🔗 HackIndia Profile:  
-[Dhruv Tripathi Profile](https://hackindia.org/2026/ai-agents-hackathon-2026/teams/the-last-commit)
-
----
 # Focus Areas
 
 - AI Agents
