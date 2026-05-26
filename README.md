@@ -86,6 +86,7 @@ Python, FastAPI, NLP, OpenCV, WebRTC, AI APIs, Machine Learning, GitHub
 [Prakash Kumar Profile](https://hackindia.org/profile/prakash_kumar2)
 
 ---
+
 # Focus Areas
 
 - AI Agents
